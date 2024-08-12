@@ -3,9 +3,10 @@
 addReviewers: true
 addAssignees: author
 
-numberOfReviewers: 2
 runOnDraft: false
 
 reviewers:
   - okmtdev
   - okayu1230z
+
+numberOfReviewers: 0
